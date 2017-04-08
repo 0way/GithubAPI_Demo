@@ -11,3 +11,6 @@ Small demo for Sitepoint article.
   - `GITHUB_PASSWORD`. (Only when testing `/authorization` page).
   - `GITHUB_USERNAME`.
   - `GITHUB_TOKEN`.
+
+
+https://www.sitepoint.com/use-githubs-api-php/
